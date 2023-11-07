@@ -1,4 +1,4 @@
-# basic-mod1-picoctf
+# Basic Mod1 (picoctf)
 
 # Details
 Platform : picoCTF <br>
